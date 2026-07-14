@@ -95,9 +95,9 @@ The policy experiment uses the following assumptions:
 
 If Hero is one of \(k\) winners in an \(N\)-player game, net profit is:
 
-\[
+$$
 \frac{N}{k} - 1
-\]
+$$
 
 If Hero loses, net profit is \(-1\).
 
